@@ -40,7 +40,7 @@ Highly skilled web developer with extensive experience in both frontend and back
 
 <p align="left">  
 <img src="https://skillicons.dev/icons?i=solidity" />  
-<img src="https://cdn.worldvectorlogo.com/logos/web3js.svg" width="40" height="40" alt="Web3.js" />  
+<img src="https://raw.githubusercontent.com/ChainSafe/web3.js/1.x/assets/logo/web3js.jpg" width="40" height="40" alt="Web3.js" />
 </p>  
 
 ### 🛠 Tools & Platforms
