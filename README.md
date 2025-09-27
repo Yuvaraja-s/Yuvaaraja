@@ -50,9 +50,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">  
-<a href="https://www.linkedin.com/in/yuvaraja-selvapandi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  
+<a href="https://www.linkedin.com/in/yuvaraja-selvapandi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
+ <a href="https://www.instagram.com/yuvaraja_selvapandi/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a> 
 <a href="https://www.facebook.com/raja.don.980967/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" /></a>  
-<a href="https://www.instagram.com/yuvaraja_selvapandi/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>  
+ 
 </p>  
 
 ---
