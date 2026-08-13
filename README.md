@@ -2,7 +2,7 @@
 
 💻 **Full Stack Web Developer | MERN & Web3 Enthusiast**
 
-🔹 2+ year of hands-on experience in building scalable web applications
+🔹 3 year of hands-on experience in building scalable web applications
 🔹 Skilled in **React, Node, Express, MongoDB, SQL & Blockchain (Web3.js, Laravel)**
 🔹 Passionate about **clean code, optimization & user-focused design**
  
